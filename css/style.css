@@ -1,5 +1,5 @@
 /* utility */
-*{
+* {
   margin:0;
   padding: 0;
   box-sizing: border-box;
@@ -12,9 +12,9 @@
 }
 
 .container {
-  width: 60%;
-  max-width: 1200px;
-  min-width: 900px;
+  width: 70%;
+  max-width: 1500px;
+  min-width: 1000px;
   margin: auto;
 }
 
@@ -48,7 +48,7 @@
   background-color: #abcfe7;
 }
 
-.bgr-blue {
+.bgr-color {
   background-color: #0186fe;
 }
 
@@ -72,8 +72,10 @@
 /* footer */
 
 .foot {
-  height: 50px;
+  height: 70px;
   margin-top: 10px;
   background-color: #6409b4;
 }
 
+
+/* margini calc */
